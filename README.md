@@ -150,7 +150,7 @@ docs/             # 기능 명세서, WBS, 발표자료 구성안
 
 | 이름 | GitHub | 역할 |
 |---|---|---|
-| 황수빈 | [@sara9872](https://github.com/sara9872) | 주요 기능 구현 및 개발 기여 |
+| 황수빈 | [@rawsara](https://github.com/rawsara) | 주요 기능 구현 및 개발 기여 |
 | 이혜진 | [@forhyejinlee](https://github.com/forhyejinlee) | UI 기능 구현 및 개발 기여 |
 | 이정현 | [@alexjhlee4](https://github.com/alexjhlee4) | 저장소 관리 및 프로젝트 기여 |
 
